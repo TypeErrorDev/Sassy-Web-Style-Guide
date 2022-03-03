@@ -1,0 +1,30 @@
+Project Folders
+    Meets Expectations:
+        ☐ All of the sass for the project is in a folder named “scss”
+        ☐ Variables are in a “utilities” sub-folder
+        ☐ Classes for styling the page are in a “components” sub-folder
+        ☐ The normalize.css file and element styles are in a “base” sub-folder sub-folders are imported into styles.scss file in correct order
+        ☐ Included CSS file can be deleted and Sass compiles it from scratch correctly with no errors.
+
+Variables
+    Meets Expectations:
+        ☐ At least 5 color variables
+        ☐ There is at least one variable for the media query breakpoint
+        ☐ Variables are being used to replace values in the components partials
+
+Components
+    Meets Expectations:
+        ☐ All major styling inside of component partials
+        ☐ At least 4 "component" partials
+        ☐ All related styles are grouped together in a single component
+            ☐ For example: All navigation styling is inside of a "navigation" component
+
+    Excceeds Expectations:
+        ☐ The parent selector & used at least once in a nested selector
+
+Design
+    Meets Expectations:
+        ☐ Project has the same look and feel as the original project in the resources folder
+
+    Exceeds Expectations:
+        ☐ Project uses Sass lighten() function to lighten the individual background color of each button on hover
