@@ -3,17 +3,19 @@
 /* ============================================= */
 
 // Font family
-$font-stack-primary: "lato", sans-serif;
+$font-stack-primary : "lato", sans-serif;
 
-// Colors (REMOVE for _typography.scss)
-$color-grey: #777;
-$color-teal: #58e1c1;
-
-// (REMOVE Colors for _buttons.scss)
-$color-white: #fff;
+// Colors 
+$color-grey         : #777;
+$color-teal         : #58e1c1;
+$color-white        : #fff;
+$color-default      : #51ddfc;
+$color-error        : #e4757a;
+$color-info         : #927bc1;
+$color-success      : #63cc82;
 
 // Breakpoints
-$breakpoint: 768px;
+$breakpoint         : 768px;
 
 
 

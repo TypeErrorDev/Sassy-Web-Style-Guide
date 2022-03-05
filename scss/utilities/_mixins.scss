@@ -2,7 +2,7 @@
 /*                    MIXIN                      */
 /* ============================================= */
 
-// (REMOVE Used in _images.scss) Mixin for display:block with added margin
+// Mixin for display:block with added margin
 @mixin disp-block {
   display: block;
   margin-left: auto;
@@ -10,7 +10,7 @@
   margin-top: 10px;
 }
 
-// (REMOVE Used in _navigation.scss) Mixin for nav links
+// Mixin for nav links
 @mixin nav {
   text-align: center;
   border-radius: 5px;
@@ -34,6 +34,7 @@
   padding: 1em 10px;
 }
 
+// Coloumn dimensions
 @mixin class-col {
   margin-top: 10px;
   flex-basis: 100%;
@@ -42,6 +43,7 @@
   border-radius: 5px;
 }
 
+// Media display
 @mixin media-disp {
   display: block;
   margin-left: auto;
