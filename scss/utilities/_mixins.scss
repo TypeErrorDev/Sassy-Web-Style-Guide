@@ -1,4 +1,8 @@
-// (REMOVE Used in _images.scss) Mixin for display:block with added margin 
+/* ============================================= */
+/*                    MIXIN                      */
+/* ============================================= */
+
+// (REMOVE Used in _images.scss) Mixin for display:block with added margin
 @mixin disp-block {
   display: block;
   margin-left: auto;
@@ -16,9 +20,10 @@
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 }
 
-// (REMOVE Used in _navigation.scss) Mixin for _navigation.scss
-@mixin nav-hover{
-    background-color: $color-teal;
-    transition: background-color .1s ease-in;
-    color: $color-white;
+// (REMOVE Used in _navigation.scss)
+@mixin nav-hover {
+  background-color: $color-teal;
+  transition: background-color 0.1s ease-in;
+  color: $color-white;
 }
+
