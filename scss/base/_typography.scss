@@ -1,7 +1,7 @@
 /* ============================================= */
 /*              Base styles                      */
 /* ============================================= */
-
+@use "../utilities" as *;
 * {
   font-family: $font-stack-primary;
   color: $color-grey;

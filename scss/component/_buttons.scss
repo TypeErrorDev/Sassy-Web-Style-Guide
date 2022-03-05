@@ -1,6 +1,9 @@
 // /* ============================================= */
 // /*              Buttons                          */
 // /* ============================================= */
+@use "../utilities" as *;
+@use "sass:map";
+
 
 .btn {
   margin-top: 15px;
@@ -13,9 +16,9 @@
 }
 .default {
   background-color: $color-default;
-  &:hover{
-    color:clr(course);
-  }
+  // &:hover{
+  //   background: clr(default, light);
+  // }
 }
 .error {
   background-color: $color-error;

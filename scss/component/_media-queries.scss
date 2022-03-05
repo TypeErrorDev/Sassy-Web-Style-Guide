@@ -1,6 +1,8 @@
 /* ============================================= */
 /*              Media Queries                    */
 /* ============================================= */
+@use "../utilities" as *;
+
 @media (min-width: $breakpoint) {
 
     .container {

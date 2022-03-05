@@ -1,1 +1,6 @@
-@import "buttons", "forms", "navigation", "images", "grid", "media-queries";
+@forward "buttons";
+@forward "forms";
+@forward "navigation";
+@forward "images";
+@forward "grid";
+@forward "media-queries";

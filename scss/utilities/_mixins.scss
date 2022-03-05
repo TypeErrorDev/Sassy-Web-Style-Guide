@@ -1,6 +1,7 @@
 /* ============================================= */
 /*                    MIXIN                      */
 /* ============================================= */
+@use "variables" as *;
 
 // Mixin for display:block with added margin
 @mixin disp-block {

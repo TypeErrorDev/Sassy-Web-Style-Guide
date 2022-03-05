@@ -1,1 +1,4 @@
-@import "maps", "functions", "variables", "mixins";
+@forward "maps"; 
+@forward "functions";
+@forward "variables";
+@forward "mixins";
