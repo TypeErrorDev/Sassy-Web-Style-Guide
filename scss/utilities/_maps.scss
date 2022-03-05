@@ -1,0 +1,30 @@
+// Maps???
+
+$colors: (
+  default: (
+    base: $color-default,
+    light: lighten($color-default, $lighten),
+    dark: darken($color-default, $darken),
+  ),
+  error: (
+    base: $color-error,
+    light: lighten($color-error, $lighten),
+    dark: darken($color-error, $darken),
+  ),
+  info: (
+    base: $color-info,
+    light: lighten($color-info, $lighten),
+    dark: darken($color-info, $darken),
+  ),
+  success: (
+    base: $color-success,
+    light: lighten($color-success, $lighten),
+    dark: darken($color-success, $darken),
+  ),
+  warning: (
+    base: $color-warning,
+    light: lighten($color-warning, $lighten),
+    dark: darken($color-warning, $darken),
+  )
+);
+
