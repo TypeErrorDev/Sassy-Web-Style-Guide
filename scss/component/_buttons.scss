@@ -16,19 +16,31 @@
 }
 .default {
   background-color: $color-default;
-  // &:hover{
-  //   background: clr(default, light);
-  // }
+  &:hover{
+    background: clr(default, light);
+  }
 }
 .error {
   background-color: $color-error;
+  &:hover{
+    background: clr(error, light);
+  }
 }
 .info {
   background-color: $color-info;
+  &:hover{
+    background: clr(info, light);
+  }
 }
 .success {
   background-color: $color-success;
+  &:hover{
+    background: clr(success, light);
+  }
 }
 .warning {
   background-color: $color-warning;
+  &:hover{
+    background: clr(warning, light);
+  }
 }

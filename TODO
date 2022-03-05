@@ -4,14 +4,12 @@ Variables
 
 Components
 
-    Excceeds Expectations:
-        ☐ The parent selector '&' is used at least once in a nested selector @started(22-03-04 01:49)
 
 Design
 
-    Exceeds Expectations:
-        ☐ Project uses Sass lighten() function to lighten the individual background color of each button on hover @started(22-03-04 01:49)
 Archive:
+  ✔ The parent selector '&' is used at least once in a nested selector @started(22-03-04 01:49) @done(22-03-05 22:06) @lasted(1d20h17m7s) @project(Excceeds Expectations)
+  ✔ Project uses Sass lighten() function to lighten the individual background color of each button on hover @started(22-03-04 01:49) @done(22-03-05 22:07) @lasted(1d20h18m31s) @project(Exceeds Expectations)
   ✔ All of the sass for the project is in a folder named “scss” @started(22-03-04 01:49) @done(22-03-04 01:59) @lasted(10m51s) @project(Meets Expectations)
   ✔ Variables are in a “utilities” sub-folder @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m18s) @project(Meets Expectations)
   ✔ Classes for styling the page are in a “components” sub-folder @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m22s) @project(Meets Expectations)
