@@ -1,6 +1,9 @@
 /* ============================================= */
 /* Sub-Folder Imports */
 /* ============================================= */
+/* ============================================= */
+/*                    MIXIN                      */
+/* ============================================= */
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -344,7 +347,7 @@ template {
 /*              Base styles                      */
 /* ============================================= */
 * {
-  font-family: "Lato", sans-serif;
+  font-family: "lato", sans-serif;
   color: #777;
   box-sizing: border-box;
 }
@@ -475,6 +478,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
+  margin-top: 10px;
   max-width: 100%;
   max-height: 100%;
 }
@@ -493,6 +497,7 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
 }
 
 /* ============================================= */

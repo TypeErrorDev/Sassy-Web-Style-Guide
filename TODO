@@ -3,12 +3,12 @@ Project Folders
         ✔ All of the sass for the project is in a folder named “scss” @started(22-03-04 01:49) @done(22-03-04 01:59) @lasted(10m51s)
         ☐ Variables are in a “utilities” sub-folder @started(22-03-04 01:49)
         ☐ Classes for styling the page are in a “components” sub-folder @started(22-03-04 01:49)
-        ☐ The normalize.css file and element styles are in a “base” sub-folder sub-folders are imported into styles.scss file in correct order @started(22-03-04 01:49)
+        ✔ The normalize.css file and element styles are in a “base” sub-folder sub-folders are imported into styles.scss file in correct order @started(22-03-04 01:49) @done(22-03-04 22:33) @lasted(20h44m21s)
         ☐ Included CSS file can be deleted and Sass compiles it from scratch correctly with no errors. @started(22-03-04 01:49)
 
 Variables
     Meets Expectations:
-        ☐ At least 5 color variables @started(22-03-04 01:49)
+        ✔ At least 5 color variables @started(22-03-04 01:49) @done(22-03-05 01:36) @lasted(23h47m18s)
         ☐ There is at least one variable for the media query breakpoint @started(22-03-04 01:49)
         ☐ Variables are being used to replace values in the components partials @started(22-03-04 01:49)
 
@@ -20,7 +20,7 @@ Components
             ☐ For example: All navigation styling is inside of a "navigation" component @started(22-03-04 01:49)
 
     Excceeds Expectations:
-        ☐ The parent selector & used at least once in a nested selector @started(22-03-04 01:49)
+        ☐ The parent selector '&' is used at least once in a nested selector @started(22-03-04 01:49)
 
 Design
     Meets Expectations:

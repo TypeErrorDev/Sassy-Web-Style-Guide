@@ -1,11 +1,16 @@
-$cyan: #58e1c1;
-// Colors
-$color-white: #fff;
-$color-lightblue: #51ddfc;
-$color-lightwhite: #ccc;
+/* ============================================= */
+/*                    MIXIN                      */
+/* ============================================= */
+
+// Font family
+$font-stack-primary: "lato", sans-serif;
+
+// Colors for _typography.scss
 $color-grey: #777;
+$color-teal: #58e1c1;
+
+// Colors for _buttons.scss
+$color-white: #fff;
 
 // Breakpoints
 $breakpoint: 768px;
-
-$font-stack-primary: 'lato', sans-serif;
