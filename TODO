@@ -1,31 +1,27 @@
 Project Folders
-    Meets Expectations:
-        ✔ All of the sass for the project is in a folder named “scss” @started(22-03-04 01:49) @done(22-03-04 01:59) @lasted(10m51s)
-        ✔ Variables are in a “utilities” sub-folder @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m18s)
-        ✔ Classes for styling the page are in a “components” sub-folder @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m22s)
-        ✔ The normalize.css file and element styles are in a “base” sub-folder sub-folders are imported into styles.scss file in correct order @started(22-03-04 01:49) @done(22-03-04 22:33) @lasted(20h44m21s)
-        ✔ Included CSS file can be deleted and Sass compiles it from scratch correctly with no errors. @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m14s)
         
-
 Variables
-    Meets Expectations:
-        ✔ At least 5 color variables @started(22-03-04 01:49) @done(22-03-05 01:36) @lasted(23h47m18s)
-        ✔ There is at least one variable for the media query breakpoint @started(22-03-04 01:49) @done(22-03-05 16:31) @lasted(1d14h42m49s)
-        ✔ Variables are being used to replace values in the components partials @started(22-03-04 01:49) @done(22-03-05 16:36) @lasted(1d14h47m33s)
 
 Components
-    Meets Expectations:
-        ✔ All major styling inside of component partials @started(22-03-04 01:49) @done(22-03-05 16:31) @lasted(1d14h42m59s)
-        ✔ At least 4 "component" partials @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m48s)
-        ✔ All related styles are grouped together in a single component @started(22-03-04 01:49) @done(22-03-05 16:37) @lasted(1d14h48m53s)
-            ✔ For example: All navigation styling is inside of a "navigation" component @started(22-03-04 01:49) @done(22-03-05 16:37) @lasted(1d14h48m57s)
 
     Excceeds Expectations:
         ☐ The parent selector '&' is used at least once in a nested selector @started(22-03-04 01:49)
 
 Design
-    Meets Expectations:
-        ✔ Project has the same look and feel as the original project in the resources folder @started(22-03-04 01:49) @done(22-03-05 16:06) @lasted(1d14h17m6s)
 
     Exceeds Expectations:
         ☐ Project uses Sass lighten() function to lighten the individual background color of each button on hover @started(22-03-04 01:49)
+Archive:
+  ✔ All of the sass for the project is in a folder named “scss” @started(22-03-04 01:49) @done(22-03-04 01:59) @lasted(10m51s) @project(Meets Expectations)
+  ✔ Variables are in a “utilities” sub-folder @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m18s) @project(Meets Expectations)
+  ✔ Classes for styling the page are in a “components” sub-folder @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m22s) @project(Meets Expectations)
+  ✔ The normalize.css file and element styles are in a “base” sub-folder sub-folders are imported into styles.scss file in correct order @started(22-03-04 01:49) @done(22-03-04 22:33) @lasted(20h44m21s) @project(Meets Expectations)
+  ✔ Included CSS file can be deleted and Sass compiles it from scratch correctly with no errors. @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m14s) @project(Meets Expectations)
+  ✔ At least 5 color variables @started(22-03-04 01:49) @done(22-03-05 01:36) @lasted(23h47m18s) @project(Meets Expectations)
+  ✔ There is at least one variable for the media query breakpoint @started(22-03-04 01:49) @done(22-03-05 16:31) @lasted(1d14h42m49s) @project(Meets Expectations)
+  ✔ Variables are being used to replace values in the components partials @started(22-03-04 01:49) @done(22-03-05 16:36) @lasted(1d14h47m33s) @project(Meets Expectations)
+  ✔ All major styling inside of component partials @started(22-03-04 01:49) @done(22-03-05 16:31) @lasted(1d14h42m59s) @project(Meets Expectations)
+  ✔ At least 4 "component" partials @started(22-03-04 01:49) @done(22-03-05 16:05) @lasted(1d14h16m48s) @project(Meets Expectations)
+  ✔ All related styles are grouped together in a single component @started(22-03-04 01:49) @done(22-03-05 16:37) @lasted(1d14h48m53s) @project(Meets Expectations)
+  ✔ For example: All navigation styling is inside of a "navigation" component @started(22-03-04 01:49) @done(22-03-05 16:37) @lasted(1d14h48m57s) @project(Meets Expectations)
+  ✔ Project has the same look and feel as the original project in the resources folder @started(22-03-04 01:49) @done(22-03-05 16:06) @lasted(1d14h17m6s) @project(Meets Expectations)
