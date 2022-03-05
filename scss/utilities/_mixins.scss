@@ -27,3 +27,17 @@
   color: $color-white;
 }
 
+// row display
+@mixin row-disp {
+  display: flex;
+  flex-direction: column;
+  padding: 1em 10px;
+}
+
+@mixin class-col {
+  margin-top: 10px;
+  flex-basis: 100%;
+  min-height: 25px;
+  padding: 10px;
+  border-radius: 5px;
+}
