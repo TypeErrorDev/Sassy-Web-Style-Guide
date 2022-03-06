@@ -6,6 +6,9 @@ Components
 
 Design
 
+
+
+
 Archive:
   ✔ The parent selector '&' is used at least once in a nested selector @started(22-03-04 01:49) @done(22-03-05 22:06) @lasted(1d20h17m7s) @project(Excceeds Expectations)
   ✔ Project uses Sass lighten() function to lighten the individual background color of each button on hover @started(22-03-04 01:49) @done(22-03-05 22:07) @lasted(1d20h18m31s) @project(Exceeds Expectations)
