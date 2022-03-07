@@ -2,8 +2,9 @@
 @use "maps" as *;
 // @use "variables" as *;
 
+// https://sass-lang.com/documentation/at-rules/function
 
 @function clr($base, $shade: base) {
-    $color: map-get(map-get($colors, $base), $shade);
-    @return $color;
-  } 
+  $color: map-get(map-get($colors, $base), $shade);
+  @return $color;
+}

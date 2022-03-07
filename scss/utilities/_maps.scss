@@ -1,6 +1,14 @@
 // Maps???
 @use "variables" as *;
 
+// https://sass-lang.com/documentation/values/maps
+// https://www.kevinpowell.co/article/using-my-colors/
+// $map: (
+//   nameOfClass: (
+//     key: what do i want the key to call
+//     key: what do i want the key to call
+//     key: what do i want the key to call
+//   );
 
 $colors: (
   default: (
@@ -27,6 +35,5 @@ $colors: (
     base: $color-warning,
     light: lighten($color-warning, $lighten),
     dark: darken($color-warning, $darken),
-  )
+  ),
 );
-

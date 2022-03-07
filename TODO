@@ -1,10 +1,44 @@
-Project Folders
-        
-Variables
+Things to make this project more SASS-y:
+  .btn {
+  margin-top: 15px;
+  width: 100%;
+  color: $color-white;
+  border: none;
+  padding: 10px 0;
+  text-transform: uppercase;
+  border-radius: 5px;
 
-Components
+  @each $theme in $colors {
+    &-#{$theme} {
+      background-color: $color;
+      &:hover {
+        background-color: lighten($color, 5%);
+      }
+    }
+  }
+}
 
-Design
+$colors: (
+  'default': $color-default,
+  'error': $color-error,
+  'info': $color-info,
+  'success': $color-success,
+  'warning': $color-warning
+)
+
+or
+
+@mixin bg-colors($map) {
+  @each $theme, $color in $map {
+    &-#{$theme} {
+      background-color: $color;
+
+      &:hover {
+        background-color: rgba($color, .9);
+      }
+    }
+  }
+}
 
 
 
