@@ -21,7 +21,6 @@
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 }
 
-// (REMOVE Used in _navigation.scss)
 @mixin nav-hover {
   background-color: $color-teal;
   transition: background-color 0.1s ease-in;
